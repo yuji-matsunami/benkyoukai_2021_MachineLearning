@@ -1,0 +1,5 @@
+data_path: "./dataset/text"
+# kernel ->['linear'、 'poly'、 'rbf'、 'sigmoid'、 'precomputed']のどれか
+kernel: "rbf"
+# model -> [logistic, SVC, RandomForest]のどれか
+model: "SVC"
